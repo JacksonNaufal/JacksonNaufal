@@ -28,6 +28,11 @@
    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu">
 <h2> ✨ Courses Ive Done! ✨</h2>
+
+<h2> My Github Overview! </h2>
+  <a href="https://github.com/Basit21740/github-readme-stats"><img alt="Jacksons github stats" src="https://github-readme-stats.vercel.app/api?username=JacksonNaufal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Basit21740/github-readme-stats"><img alt="Jacksons github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonNaufal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
   <p> I am Linux Certified! </p>
   <p> I am Cisco Packet Tracer Certified! </p>
 <h2> 👨‍🏫 Courses Im Learning! 🧑‍🏫 </h2>
