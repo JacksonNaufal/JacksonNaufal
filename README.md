@@ -24,10 +24,11 @@
   <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi">
    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu">
-<h2> 👨‍🏫 Courses Ive Done! 🧑‍🏫 </h2>
+<h2> ✨ Courses Ive Done! ✨</h2>
   <p> I am Linux Certified! </p>
   <p> I am Cisco Packet Tracer Certified! </p>
-
+<h2> 👨‍🏫 Courses Im Learning! 🧑‍🏫 </h2>
+  <p> Programming Essentials In English </p>
 ## 🔧 Tools
 
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
