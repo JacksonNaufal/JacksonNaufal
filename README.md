@@ -6,11 +6,11 @@
 </p>
 
 <h2> 📖 Programming Languages I Have Learnt! 📕 </h2>
-
+<p>
   <a href="https://github.com/search?q=user%3AJacksonNaufal+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3AJacksonNaufal+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
   <a href="https://github.com/search?q=user%3AJacksonNaufal+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
-
+</p>
 <h2>💻 Operating Systems I Am Currently Using!</h2>
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux">
