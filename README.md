@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi">
    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu">
+<h2> 👨‍🏫 Courses Ive Done! 🧑‍🏫 </h2>
 
 ## 🔧 Tools
 
