@@ -25,6 +25,8 @@
    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu">
 <h2> 👨‍🏫 Courses Ive Done! 🧑‍🏫 </h2>
+  <p> I am Linux Certified! </p>
+  <p> I am Cisco Packet Tracer Certified! </p>
 
 ## 🔧 Tools
 
