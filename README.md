@@ -43,7 +43,7 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
   
- <h2> My Github Overview! </h2>
+ <h2> 🌌 My Github Overview! 🌌 </h2>
   <a href="https://github.com/Basit21740/github-readme-stats"><img alt="Jacksons github stats" src="https://github-readme-stats.vercel.app/api?username=JacksonNaufal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Basit21740/github-readme-stats"><img alt="Jacksons github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonNaufal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/> 
