@@ -3,7 +3,7 @@
 
 <p> 🏫 I am currently a student at ST. Mother Teresa High School! 🏫
 <p> 📫 You can reach me @ Jackson.naufal@mths.ca 
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new"><img alt="GMAIL" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
 <h2>✍ Programming Languages Im Currently Using! 😎</h2>
 <p>
   <a href="https://github.com/search?q=user%3AJacksonNaufal+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
